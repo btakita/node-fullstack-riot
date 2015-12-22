@@ -1,0 +1,31 @@
+{
+  "name": "node-fullstack-riot",
+  "version": "0.1.0",
+  "description": "A toolkit to build composable nodejs,riotjs dom,http,microservice platforms",
+  "author": "Brian Takita <brian.takita@gmail.com>",
+  "contributors": [],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btakita/node-fullstack-riot"
+  },
+  "bugs": {
+    "url": "https://github.com/btakita/node-fullstack-riot/issues"
+  },
+  "keywords": [
+    "node-fullstack-riot",
+    "node",
+    "riot",
+    "riotjs",
+    "fullstack"
+  ],
+  "dependencies": {
+    "node-fullstack": "^0.5.3",
+    "riot": "*",
+    "riot-cell": "*",
+    "riotcontrol": "*"
+  },
+  "devDependencies": {},
+  "analyze": true,
+  "license": "Apache"
+}
