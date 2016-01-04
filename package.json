@@ -1,6 +1,6 @@
 {
   "name": "node-fullstack-riot",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "A toolkit to build composable nodejs,riotjs dom,http,microservice platforms",
   "author": "Brian Takita <brian.takita@gmail.com>",
   "contributors": [],
@@ -22,7 +22,7 @@
   "dependencies": {
     "node-fullstack": "^0.5.3",
     "riot": "*",
-    "riot-cell": "*",
+    "cell2": "*",
     "riotcontrol": "*"
   },
   "devDependencies": {},
